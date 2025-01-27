@@ -21,7 +21,7 @@ Used for reference of my blogs
 ## Notable Contributions
 
 - https://serverless.connpass.com/event/290674/ : Lightning Talk on COMPLETELY Serverless CI/CD for Serverless Meetup (17) for more than 50+ AWS enthusiats in JAPANESE
-- https://stackoverflow.com/users/13126651/jatin-mehrotra : Contributor for AWS collective on stackoverflow; recently acquired Silver badge for AWS
+- https://stackoverflow.com/users/13126651/jatin-mehrotra : Contributor for AWS collective on stackoverflow; recently acquired Silver badge for AWS with 11,475 reputation
 
 ### 2024
 - re:Invent 2024
